@@ -24,8 +24,8 @@ This Python script asynchronously scrapes property listings from Property24.com,
 
 1.  **Clone the repository (or download the script):**
     ```bash
-    git clone <your-repository-url> # If applicable
-    cd <repository-directory>
+    git clone https://github.com/NtsakoCosm/CurlCffi
+    cd CurlCffi
     ```
 
 2.  **Create and activate a virtual environment (recommended):**

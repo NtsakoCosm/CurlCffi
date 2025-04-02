@@ -16,7 +16,7 @@ This Python script asynchronously scrapes property listings from Property24.com,
 
 ## Prerequisites
 
-*   Python 3.7+ (due to `asyncio` and f-strings)
+*   Python 3.7+ 
 *   `pip` (Python package installer)
 *   Access to a rotating proxy service (recommended)
 
@@ -77,7 +77,7 @@ The scraper requires proxy credentials to run. These should be stored securely i
 2.  Run the script from your terminal:
 
     ```bash
-    python your_script_name.py # Replace your_script_name.py with the actual filename
+    python concurr.py
     ```
 
 3.  The script will perform the following steps:
